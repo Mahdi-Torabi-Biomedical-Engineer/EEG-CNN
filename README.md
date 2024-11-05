@@ -62,8 +62,7 @@ The confusion matrix shows model accuracy across the 10 classes.
 
 ## Files in the Repository
 
-- `EEGClassification.py`: Main code file for data loading, preprocessing, and model training.
-- `utils.py`: Contains helper functions for dataset download and data processing.
+- `EEG.py`: Main code file for data loading, preprocessing, and model training.
 - `images/`: Directory containing visual assets for use in this README.
 
 ## How to Run
